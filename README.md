@@ -2,7 +2,7 @@
 
 *The research is to find original magnetism of LCO.* <br>
 *Use Python to fit X-ray spectrum, incliude X-ray Aborbtion Spectrum(XAS), X-ray Magnetism Linear(XMLD), Coherent Spectrum(XMCD).*<br>
-*The following package is used : *  
-* panda is used to data operation. 
-* numpy%scipy is for data Processing. 
-* matplotlib is for data visualization. 
+*The following python package is used : *  
+* Panda is used to data operation. 
+* Numpy%Scipy is for data Processing. 
+* Matplotlib is for data visualization. 
