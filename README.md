@@ -1,4 +1,4 @@
-The tool used for research in graduation school.
+The tool is used for research in graduation school.
 
 *The research is to find original magnetism of LCO.* <br>
 *LAO, LSAT, STO is experiment sample.*<br>
